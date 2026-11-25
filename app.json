@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "StreamVault",
+    "slug": "streamvault",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "dark",
+    "plugins": ["expo-video"],
+    "android": { "package": "com.example.streamvault" },
+    "ios": { "bundleIdentifier": "com.example.streamvault" }
+  }
+}
